@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "One Way Ticket",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-02-06T04:29:26.315268Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Way Ticket (Because I Can)",
+      "artist": "LeAnn Rimes",
+      "has_synced": true,
+      "path": "select/01_One_Way_Ticket_(Because_I_Can)_LeAnn_Rimes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "18Th Century Cannibals, Excitable Morlocks and a One-Way Ticket on the Ghost Train",
+      "artist": "Rob Zombie",
+      "has_synced": true,
+      "path": "select/02_18Th_Century_Cannibals,_Excitable_Morlocks_and_a_One-Way_Ticket_on_the_Ghost_Tra_Rob_Zombie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Way Ticket To Pluto",
+      "artist": "Dead Kennedys",
+      "has_synced": true,
+      "path": "select/03_One_Way_Ticket_To_Pluto_Dead_Kennedys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Way Ticket",
+      "artist": "The Darkness",
+      "has_synced": true,
+      "path": "select/04_One_Way_Ticket_The_Darkness.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Way Ticket",
+      "artist": "L.A. Guns",
+      "has_synced": true,
+      "path": "select/05_One_Way_Ticket_L.A._Guns.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Way Ticket",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_One_Way_Ticket_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Way Ticket",
+      "artist": "Eruption",
+      "has_synced": true,
+      "path": "select/07_One_Way_Ticket_Eruption.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "18th Century Cannibals, Excitable Morlocks & A One-Way Ticket On The Ghost Train",
+      "artist": "Rob Zombie",
+      "has_synced": true,
+      "path": "select/08_18th_Century_Cannibals,_Excitable_Morlocks_&_A_One-Way_Ticket_On_The_Ghost_Train_Rob_Zombie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Way Ticket To Anywhere",
+      "artist": "The Osmonds",
+      "has_synced": false,
+      "path": "select/09_One_Way_Ticket_To_Anywhere_The_Osmonds.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Way Ticket",
+      "artist": "Neil Sedaka",
+      "has_synced": false,
+      "path": "select/10_One_Way_Ticket_Neil_Sedaka.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Way Ticket (To the Blues)",
+      "artist": "Neil Sedaka",
+      "has_synced": true,
+      "path": "select/11_One_Way_Ticket_(To_the_Blues)_Neil_Sedaka.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Way Ticket (To The Blues)",
+      "artist": "Neil Sedaka",
+      "has_synced": true,
+      "path": "select/12_One_Way_Ticket_(To_The_Blues)_Neil_Sedaka.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One-Way Ticket",
+      "artist": "Neil Sedaka",
+      "has_synced": true,
+      "path": "select/13_One-Way_Ticket_Neil_Sedaka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Way Ticket",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_One_Way_Ticket_ONE_OK_ROCK.txt"
+    }
+  ]
+}
